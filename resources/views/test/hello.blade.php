@@ -1,0 +1,1 @@
+<h1>Hello {{ $namePerson }} from blade</h1>
